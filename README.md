@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris707github
-- 👀 I’m interested in learning coding and machine learning 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in learning artificial intelligence and machine learning 
+- 🌱 I’m currently learning java,javascript and php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me christhapa707@gmail.com
 
