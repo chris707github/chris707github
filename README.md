@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning artificial intelligence and machine learning 
 - 🌱 I’m currently learning java,javascript and php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me christhapa707@gmail.com
+- 📫 How to reach me christhapa2nd@gmail.com
 
 <!---
 chris707github/chris707github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
